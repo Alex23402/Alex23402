@@ -1,9 +1,8 @@
-- 👋 salut je suis Alex234
-- 👀 je suis intéressé par les jeux vidéos
-- 🌱 j'apprend actuellement a en faire une
-- 💞️ II’m looking to collaborate on making one
-- 📫 comment me contatcter mon discord @alex23402
-- 😄 Pronouns: je/il he/him
+-  salut je suis Alex234
+- je suis intéressé par les jeux vidéos
+  - j'apprend actuellement a en faire un
+- je cherche des gens pour m'aider
+  - pour me contatcter mon discord @alex23402
 
 
 <!---
